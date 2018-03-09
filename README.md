@@ -1,5 +1,11 @@
 # TensorFlow Exercises
 
+## 2018-03-10
+
+start: 6:58 AM
+
+## 
+
 TensorFlow is arugably the most popular deep learning library as of 2017.
 
 This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary, I focus on comparing TensorFlow functions with the equivalent functions in NumPy, the de facto standard numerical computation library. I hope this will help you get comfortable with TensorFlow quickly.
